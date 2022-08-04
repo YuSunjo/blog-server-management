@@ -1,0 +1,9 @@
+server:
+  port: 9999
+
+spring:
+  security:
+    user:
+      name: tnswh2023
+      password: 1234
+
